@@ -1,0 +1,11 @@
+{
+  "name": "twitchboard",
+  "version": "1.0.0",
+  "description": "Free streamer tools: image sizes, name ideas, OBS widgets and bitrate, Twitch/Kick/TikTok earnings.",
+  "mcpServers": {
+    "twitchboard": {
+      "httpUrl": "https://www.twitchboard.net/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "net.twitchboard/twitchboard",
+  "title": "TwitchBoard",
+  "description": "Streamer tools: image sizes, name ideas, OBS widgets and bitrate, Twitch/Kick/TikTok earnings.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.twitchboard.net/mcp-server/",
+  "icons": [{ "src": "https://www.twitchboard.net/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.twitchboard.net/mcp"
+    }
+  ]
+}
