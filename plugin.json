@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "twitchboard",
+  "version": "1.0.0",
+  "description": "Free streamer tools from TwitchBoard: image sizes for Twitch, YouTube, Discord, Kick and TikTok, username ideas, OBS widget URLs and bitrate settings, Discord text tools and earnings estimates.",
+  "author": {
+    "name": "TwitchBoard",
+    "url": "https://www.twitchboard.net"
+  },
+  "homepage": "https://www.twitchboard.net/mcp-server/",
+  "repository": "https://github.com/TwitchBoard/twitchboard-mcp",
+  "license": "MIT",
+  "keywords": ["twitch", "obs", "streaming", "discord", "tiktok", "mcp"]
+}

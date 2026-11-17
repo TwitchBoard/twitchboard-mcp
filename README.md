@@ -90,7 +90,8 @@ Add a remote (HTTP) MCP server with the URL `https://www.twitchboard.net/mcp`.
 ## Privacy and limits
 
 - Nothing you send is stored. Only the tool name and the client name are logged, to see which tools are useful.
-- `check_username` sends the name you ask about to the official Minecraft and Roblox lookups.
+- `check_username` sends the name you ask about to Minecraft's official lookup (or the PlayerDB mirror when Mojang doesn't answer) and to Roblox's official username check.
+- Every tool call goes to `www.twitchboard.net`. The server needs no credentials and stores none.
 - Limit: 120 requests per minute per IP address.
 
 ## Agent skill
