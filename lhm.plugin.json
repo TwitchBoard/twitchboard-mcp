@@ -3,7 +3,7 @@
   "description": "Free tools for streamers: image sizes, name ideas, OBS widgets and settings, earnings calculators.",
   "homepage": "https://www.twitchboard.net/mcp-server/",
   "icon": "https://www.twitchboard.net/icon-512.png",
-  "identifier": "twitchboard",
+  "identifier": "twitchboard-twitchboard-mcp",
   "name": "TwitchBoard",
   "prompts": [],
   "resources": [],
