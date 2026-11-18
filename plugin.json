@@ -10,5 +10,22 @@
   "homepage": "https://www.twitchboard.net/mcp-server/",
   "repository": "https://github.com/TwitchBoard/twitchboard-mcp",
   "license": "MIT",
-  "keywords": ["twitch", "obs", "streaming", "discord", "tiktok", "mcp"]
+  "keywords": [
+    "twitch",
+    "streaming",
+    "streamer",
+    "obs",
+    "overlay",
+    "bitrate",
+    "emote",
+    "banner",
+    "thumbnail",
+    "youtube",
+    "kick",
+    "tiktok",
+    "discord",
+    "username",
+    "roblox",
+    "minecraft"
+  ]
 }

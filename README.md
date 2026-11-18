@@ -58,6 +58,10 @@ gemini mcp add --transport http twitchboard https://www.twitchboard.net/mcp
 }
 ```
 
+### Kiro
+
+Powers → **Add Custom Power** → **Import power from GitHub**, then paste `https://github.com/TwitchBoard/twitchboard-mcp`. The power activates when you talk about Twitch, OBS, emotes, banners and similar streaming topics.
+
 ### Other clients
 
 Add a remote (HTTP) MCP server with the URL `https://www.twitchboard.net/mcp`.
@@ -93,6 +97,11 @@ Add a remote (HTTP) MCP server with the URL `https://www.twitchboard.net/mcp`.
 - `check_username` sends the name you ask about to Minecraft's official lookup (or the PlayerDB mirror when Mojang doesn't answer) and to Roblox's official username check.
 - Every tool call goes to `www.twitchboard.net`. The server needs no credentials and stores none.
 - Limit: 120 requests per minute per IP address.
+- Full privacy policy: [twitchboard.net/privacy](https://www.twitchboard.net/privacy/)
+
+## Support
+
+Open an [issue](https://github.com/TwitchBoard/twitchboard-mcp/issues) or use the [contact page](https://www.twitchboard.net/contact/).
 
 ## Agent skill
 
